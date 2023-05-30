@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Solidus Feedback
+    url: https://github.com/solidusio/solidus/discussions
+    about: Share your feedback with the Solidus team.
