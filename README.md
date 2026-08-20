@@ -2,7 +2,7 @@
 
 Home of the [Solidus public product roadmap](https://github.com/orgs/solidusio/projects/7/views/1).
 
-Here we share what features we're working on, what is coming next, and when we expect to bring them to you. If yuou have any questions or comments, please share your feedback via [Solidus public discussions](https://github.com/solidusio/solidus/discussions). 
+Here we share what features we're working on, what is coming next, and when we expect to bring them to you. If you have any questions or comments, please share your feedback via [Solidus public discussions](https://github.com/solidusio/solidus/discussions). 
 
 The roadmap repository is for communicating Solidus’ roadmap. Existing issues are currently read-only, and we are locking conversations, as we get started. Interaction limits are also in place to ensure issues originate from Solidus.
 
